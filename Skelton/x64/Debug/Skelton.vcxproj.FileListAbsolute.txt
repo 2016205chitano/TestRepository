@@ -1,2 +1,0 @@
-C:\Users\chita\OneDrive\デスクトップ\Skelton\x64\Debug\Skelton.exe
-C:\Users\chita\OneDrive\デスクトップ\Skelton\x64\Debug\Skelton.pdb
